@@ -90,9 +90,13 @@
 ## ⚙️ GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jaywalk18&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&bg_color=00000000" alt="stats"/>
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jaywalk18&layout=compact&langs_count=8&hide_border=true&title_color=58a6ff&bg_color=00000000" alt="langs"/>
-  <img height="170em" src="https://streak-stats.demolab.com?user=Jaywalk18&hide_border=true&locale=en&card_width=420" alt="streak"/>
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jaywalk18&theme=default" alt="stats"/>
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jaywalk18&theme=default" alt="langs"/>
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jaywalk18&theme=default" alt="productive time"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jaywalk18&hide_border=true&locale=en&card_width=420" alt="streak"/>
 </p>
 
 <p align="center">
@@ -111,7 +115,7 @@
 ## 🤝🏻 Connect with Me
 
 <p align="center">
-  <a href="mailto:zhoutianjian2000@nudt.edu.cn"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="mailto:zhoutianjian2000@nudt.edu.cn"><img src="https://img.shields.io/badge/Email-zhoutianjian2000%40nudt.edu.cn-3B82F6?style=plastic&logo=minutemailer&logoColor=white" alt="Email"/></a>
   <a href="https://jaywalk18.github.io/visual-ssl-digest/"><img src="https://img.shields.io/badge/visual_ssl_digest-%23181717.svg?style=plastic&logo=githubpages&logoColor=white" alt="SSL Digest"/></a>
   <a href="https://github.com/Jaywalk18"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
