@@ -91,8 +91,8 @@ Jie Jiang, **Tianjian Zhou**, Yishan Li
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaywalk18&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff" alt="GitHub stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaywalk18&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff" alt="Top langs" height="150">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jaywalk18&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff" alt="GitHub stats" height="150">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jaywalk18&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff" alt="Top langs" height="150">
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
