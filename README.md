@@ -90,17 +90,23 @@
 ## ⚙️ GitHub Analytics
 
 <p align="center">
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jaywalk18&theme=default" alt="stats"/>
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jaywalk18&theme=default" alt="langs"/>
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jaywalk18&theme=default" alt="productive time"/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jaywalk18&theme=github_dark"/><img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jaywalk18&theme=default" alt="stats"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jaywalk18&theme=github_dark"/><img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jaywalk18&theme=default" alt="langs"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jaywalk18&theme=github_dark"/><img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jaywalk18&theme=default" alt="productive time"/></picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jaywalk18&hide_border=true&locale=en&card_width=420" alt="streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Jaywalk18&theme=github-dark&hide_border=true&locale=en&card_width=420"/>
+    <img src="https://streak-stats.demolab.com?user=Jaywalk18&hide_border=true&locale=en&card_width=420" alt="streak"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy-sigma-five.vercel.app/?username=Jaywalk18&theme=onedark&no-frame=true&no-bg=true&column=7" alt="trophies"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-sigma-five.vercel.app/?username=Jaywalk18&theme=onedark&no-frame=true&no-bg=true&column=7"/>
+    <img src="https://github-profile-trophy-sigma-five.vercel.app/?username=Jaywalk18&theme=flat&no-frame=true&no-bg=true&column=7" alt="trophies"/>
+  </picture>
 </p>
 
 <p align="center">
