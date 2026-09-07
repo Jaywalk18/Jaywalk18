@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: >-
+  If you use TriCM-Net in your research, please cite the accompanying paper.
+title: "TriCM-Net: Triple Cross-Modal Interaction for Infrared–Visible Abnormal Behavior Recognition"
+authors:
+  - family-names: Jiang
+    given-names: Jie
+    affiliation: "National University of Defense Technology"
+  - family-names: Zhou
+    given-names: Tianjian
+    affiliation: "National University of Defense Technology"
+  - family-names: Li
+    given-names: Yishan
+    affiliation: "National University of Defense Technology"
+version: 1.0.0
+date-released: "2026-09-07"
+repository-code: "https://github.com/Jaywalk18/TriCM-Net"
+keywords:
+  - infrared-visible fusion
+  - multi-modal learning
+  - video recognition
+  - PRCV 2026
