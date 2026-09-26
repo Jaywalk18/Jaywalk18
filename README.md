@@ -34,6 +34,26 @@
 
 > \* corresponding author &nbsp;·&nbsp; # equal contribution
 
+### 🎓 Conference Papers (会议)
+
+**1. DAGA: Dynamic Attention-Guided Adaptation for Self-Supervised Vision Transformers** 🔥
+<br>**<u>Tianjian Zhou</u>**, Jie Jiang, Yishan Li, Yifei Zhang — *NeurIPS 2026* Main Track (poster) 🎉 **my first NeurIPS paper!**
+<br>
+<a href="https://neurips.cc"><img src="https://img.shields.io/badge/Venue-NeurIPS_2026-5B21B6?style=plastic"/></a>
+<a href="https://github.com/Jaywalk18/DAGA"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=plastic&logo=github&logoColor=white"/></a>
+
+**2. CMAE: Contrastive Manifold Autoencoder for Efficient Latent Diffusion**
+<br>**<u>Tianjian Zhou</u>#**, Yishan Li#, Jie Jiang\*, Liang Bai, Yifei Zhang — *IEEE ICME 2026*
+<br>
+<a href="https://github.com/Jaywalk18/CMAE-Contrastive-Manifold-Autoencoder"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=plastic&logo=github&logoColor=white"/></a>
+
+**3. TriCM-Net: Triple Cross-Modal Interaction for Infrared–Visible Abnormal Behavior Recognition**
+<br>Jie Jiang, **Tianjian Zhou**, Yishan Li — *PRCV 2026*
+<br>
+<a href="https://github.com/Jaywalk18/TriCM-Net"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=plastic&logo=github&logoColor=white"/></a>
+
+### 📚 Journal Papers (期刊)
+
 **1. [EquiSSL: Gauge-Equivariant Attention for Rotation-Stable 360° Scene Understanding](https://doi.org/10.1145/3842525)**
 <br>**<u>Tianjian Zhou</u>**, Yishan Li, Jie Jiang\*, Yifei Zhang — *ACM Transactions on Graphics* (SIGGRAPH Asia 2026 Journal Track), Vol. 45, No. 6, Art. 242
 <br>
@@ -51,16 +71,6 @@
 <br>
 <a href="https://doi.org/10.1016/j.patcog.2026.114822"><img src="https://img.shields.io/badge/Paper-DOI-3B82F6?style=plastic&logo=adobeacrobatreader&logoColor=white"/></a>
 <a href="https://github.com/Jaywalk18/Semantic-Data-Inflation"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=plastic&logo=github&logoColor=white"/></a>
-
-**4. CMAE: Contrastive Manifold Autoencoder for Efficient Latent Diffusion**
-<br>**<u>Tianjian Zhou</u>#**, Yishan Li#, Jie Jiang\*, Liang Bai, Yifei Zhang — *IEEE ICME 2026*
-<br>
-<a href="https://github.com/Jaywalk18/CMAE-Contrastive-Manifold-Autoencoder"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=plastic&logo=github&logoColor=white"/></a>
-
-**5. TriCM-Net: Triple Cross-Modal Interaction for Infrared–Visible Abnormal Behavior Recognition**
-<br>Jie Jiang, **Tianjian Zhou**, Yishan Li — *PRCV 2026*
-<br>
-<a href="https://github.com/Jaywalk18/TriCM-Net"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=plastic&logo=github&logoColor=white"/></a>
 
 ---
 
