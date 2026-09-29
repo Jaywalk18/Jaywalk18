@@ -70,51 +70,6 @@
 
 ---
 
-## 🔧 Tech Stack
-
-**Languages & Frameworks**
-
-<p align="center">
-  <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white" alt="Python"/></a>
-  <a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=plastic&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=plastic&logo=latex&logoColor=white" alt="LaTeX"/>
-</p>
-
-**Tools & Platform**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-</p>
-
----
-
-## ⚙️ GitHub Analytics
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jaywalk18&theme=github_dark"/><img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jaywalk18&theme=default" alt="stats"/></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jaywalk18&theme=github_dark"/><img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jaywalk18&theme=default" alt="langs"/></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jaywalk18&theme=github_dark"/><img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jaywalk18&theme=default" alt="productive time"/></picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Jaywalk18&theme=github-dark&hide_border=true&locale=en&card_width=420"/>
-    <img src="https://streak-stats.demolab.com?user=Jaywalk18&hide_border=true&locale=en&card_width=420" alt="streak"/>
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-sigma-five.vercel.app/?username=Jaywalk18&theme=onedark&no-frame=true&no-bg=true&column=7"/>
-    <img src="https://github-profile-trophy-sigma-five.vercel.app/?username=Jaywalk18&theme=flat&no-frame=true&no-bg=true&column=7" alt="trophies"/>
-  </picture>
-</p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jaywalk18/Jaywalk18/output/github-contribution-grid-snake-dark.svg"/>
